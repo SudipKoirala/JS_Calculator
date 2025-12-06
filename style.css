@@ -31,8 +31,13 @@ body {
 input {
     width: 20rem;
     height: 4rem;
+   padding: 1rem;
     border-radius: 0.3rem;
     margin: 1rem;
+    font-size: 2rem;
+    font-weight: 650;
+    color: rgb(0, 0, 0);
+
 }
 
 
